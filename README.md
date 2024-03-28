@@ -1,10 +1,10 @@
-<h1 align="center">CharUnblock</h1>
+<h1 align="center">Nugget Unblocker</h1>
 
-<h4 align="center">Uses the Ultraviolet Proxy to browse the web freely.</h3>
+<h4 align="center">Uses emeralds uv config to cockblock the unblockers to browse the web freely.</h3>
 
 <p align="center">
-<a href="https://discord.gg/hrXXUeWgrn">
-  <img src="https://dcbadge.vercel.app/api/server/hrXXUeWgrn"/>
+<a href="(https://discord.com/invite/DHtCqX3vGx)">
+  <img src="https://dcbadge.vercel.app/api/server/DHtCqx3vGx"/>
 </a>
 </p>
 <h1></h1>
@@ -17,3 +17,4 @@
 
 <h4> - Go to settings in the unblocker and click restart proxy.</h4>
 <h4> - If the above doesn't work, clear the site cookies.</h4>
+<h4> - i banged someones mother.</h4>
