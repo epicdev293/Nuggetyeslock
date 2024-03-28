@@ -1,6 +1,6 @@
 <h1 align="center">Nugget Unblocker</h1>
 
-<h4 align="center">Uses emeralds uv config to cockblock the unblockers to browse the web freely.</h3>
+<h4 align="center">Uses uv to cockblock the unblockers to browse the web freely.</h3>
 
 <p align="center">
 <a href="(https://discord.com/invite/DHtCqX3vGx)">
